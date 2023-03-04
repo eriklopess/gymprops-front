@@ -1,11 +1,11 @@
-import { configureStore } from "@reduxjs/toolkit";
-import { useDispatch } from "react-redux";
-import user from "./User.store";
+import { configureStore } from '@reduxjs/toolkit';
+import { useDispatch } from 'react-redux';
+import user from './User.store';
 
 const store = configureStore({
-    reducer: {
-        user
-    },
+  reducer: {
+    user,
+  },
 });
 
 export type RootState = ReturnType<typeof store.getState>;

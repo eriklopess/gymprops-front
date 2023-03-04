@@ -3,7 +3,7 @@ import { Container } from '../../global';
 
 export const LoginContainer = styled(Container)`
     justify-content: space-evenly;
-`
+`;
 
 export const Form = styled.form`
     align-items: center;
@@ -24,7 +24,7 @@ export const Form = styled.form`
         padding: 10px;
     }
 
-`
+`;
 
 export const Button = styled.button`
     background: rgba(255, 255, 255, 0.6);
@@ -36,7 +36,7 @@ export const Button = styled.button`
     margin: 10px;
     padding: 1rem 3rem;
     text-decoration: none;
-`
+`;
 export const LoginImageBox = styled.div`
     align-items: center;
     display: flex;
@@ -50,4 +50,4 @@ export const LoginImageBox = styled.div`
         width: 100%;
     }
 
-`
+`;
