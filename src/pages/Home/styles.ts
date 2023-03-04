@@ -29,7 +29,7 @@ export const HomeTextBox = styled.div`
         font-weight: 400;
         margin-bottom: 1rem;
     }
-`
+`;
 
 export const HomeImageBox = styled.div`
     align-items: center;
@@ -44,4 +44,4 @@ export const HomeImageBox = styled.div`
         width: 100%;
     }
 
-`
+`;
