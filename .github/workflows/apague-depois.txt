@@ -1,0 +1,4 @@
+Coloca isso aqui no secrets do github
+
+SNYK_TOKEN
+95747f6e-ebb7-492e-acf5-a9cd70f741d5
